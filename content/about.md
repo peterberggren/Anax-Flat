@@ -1,11 +1,13 @@
-About this site
+Om den här sidan
 ==============================================
 
-The primary focus of this site is to:
+<figure>
+  <img src="img/grid.png" alt="Grid" style="float:right; width: 30%">
+</figure>  
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Den här sidan är en del i kursen [dbwebb course design](http://dbwebb.se/design) som [Peter Berggren](https://sites.google.com/berggren.im/peter/startsida) arbetar med nov -17 till jan -18.
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Grunden till sidan härrör från [canax/anax-flat](git@github.com:canax/anax-flat.git), som vår lärare [Mikael Roos](https://mikaelroos.se) organiserat åt oss.
+and about to be changed by .
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se),  
-and about to be changed by *Peter Berggren*.
+Mitt [GitHub repo](https://github.com/peterberggren/anax-flat).
