@@ -97,6 +97,14 @@ theme:
 	[ ! -d theme ] || $(MAKE) -C theme less-install
 
 
+# target: upgrade-responsive-menu - Upgrade LESS module - Responsive menu
+.PHONY: upgrade-responsive-menu
+upgrade-responsive-menu:
+	@$(call HELPTEXT,$@)
+	npm update desinax-responsive-menu
+	cp node_modules/desinax-responsive-menu/src/less/responsive-menu.less modules/
+	cp node_modules/desinax-responsive-menu/src/js/responsive-menu.js js/
+
 
 # # target: test                - Run tests.
 # .PHONY: test

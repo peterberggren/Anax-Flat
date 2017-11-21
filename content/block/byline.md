@@ -1,5 +1,4 @@
-<div style="border: 2px solid aqua; margin: auto; width: 50%; overflow: auto; margin-top: 10px; margin-bottom: 10px; padding: 10px" markdown=1>
-<img src="img/pb-150.jpg" alt="Peter" style="float: right">
-
-**Peter Berggren** är lärare och studerar även på BTH.
-</div>
+<p style="border: 2px solid black; margin: auto; width: 50%; overflow: auto; margin-top: 5px; margin-bottom: 5px; padding: 5px" markdown=1>
+<img src="img/pb-120-brun.png" alt="Peter" style="float: right">
+**Peter Berggren** är lärare och studerar även webb-programmering på BTH.
+</p>

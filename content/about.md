@@ -9,4 +9,4 @@ Den här sidan är en del i kursen [dbwebb course design](http://dbwebb.se/desig
 
 Grunden till sidan härrör från [canax/anax-flat](git@github.com:canax/anax-flat.git), som vår lärare [Mikael Roos](https://mikaelroos.se) organiserat åt oss.
 
-Mitt [GitHub repo](https://github.com/peterberggren/anax-flat).
+Mitt [GitHub-repo för temat](https://github.com/peterberggren/anax-flat-theme) 
